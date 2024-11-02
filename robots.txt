@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eloyuigi.github.io/LBQ/sitemap_index.txt
+Sitemap: https://eloyuigi.github.io/WMk/sitemap_index.txt
+Sitemap: https://eloyuigi.github.io/bIZ/sitemap_index.txt
+Sitemap: https://eloyuigi.github.io/bQh/sitemap_index.txt
